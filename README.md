@@ -3,6 +3,7 @@ This project is an abstraction of an automatic blinds system which opens during 
 
 This repository contains the code which is uploaded to the arduino for the stepper motor to function.
 <ul><a href="https://github.com/nahme6/Automatic-Sunlight-Detection-Window-Blind/blob/main/CAB202%20Assignment.pdf"><p>Stepper Code<p></a></ul>
+<ul><a href="https://github.com/nahme6/Automatic-Sunlight-Detection-Window-Blind/blob/main/makefile"><p>Makefile<p></a></ul>
 <ul><a href="https://github.com/nahme6/Automatic-Sunlight-Detection-Window-Blind/blob/main/Untitled%20Sketch_schem.png"><p>Schematic<p></a></ul>
 
 
