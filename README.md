@@ -9,4 +9,6 @@ This repository contains the code which is uploaded to the arduino for the stepp
 
 <a href="https://github.com/nahme6/Automatic-Sunlight-Detection-Window-Blind/blob/main/CAB202%20Assignment.pdf"><p>Additional information on the project can be found here<p></a>
 
+<img src="Untitled%20Sketch_schem.png">
+
 
